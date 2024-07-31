@@ -17,7 +17,7 @@
   
 - 📄 Know about my experiences [https://docs.google.com/document/d/1ODEw0Uil6kh6adIMBcZ6ynplay46cTH5uBfmqERnxUY/edit?usp=sharing](https://docs.google.com/document/d/1ODEw0Uil6kh6adIMBcZ6ynplay46cTH5uBfmqERnxUY/edit?usp=sharing)  
   
-- ⚡ Fun fact **My english level is bad but i made my best effort to made this💪**  
+- ⚡ Fun fact **My english level is bad but i made my best effort to write this💪**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
