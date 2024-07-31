@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Franco 👨‍💻</h1>  
 <h3 align="center">A passionate backend developer from Argentina who are currently studying a degree in software engineering at University of Buenos Aires🎓</h3>  
   
