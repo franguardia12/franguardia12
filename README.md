@@ -26,4 +26,4 @@ Open to **internships**, **junior backend roles**, and **open-source collaborati
 
 📍 Buenos Aires, Argentina  
 📧 franguardia9340@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/franguardia12/) | [CV](https://docs.google.com/document/d/1ODEw0Uil6kh6adIMBcZ6ynplay46cTH5uBfmqERnxUY/edit?usp=sharing)
+🔗 [LinkedIn](https://www.linkedin.com/in/francoguardia/) | [CV](https://docs.google.com/document/d/1nzTFwSB-uKdT1O0U8dHyUsBVkieKmq-ClA6cQBrbZMw/edit?usp=sharing)
