@@ -1,29 +1,32 @@
-# Hi 👋, I'm Franco Guardia
+# Hola 👋, soy Franco Guardia
 
-**Computer Engineering Student @ Universidad de Buenos Aires**  
-Passionate about **backend development**, **distributed systems**, **concurrent programming**, and **machine learning pipelines**.
+**Estudiante de Ingeniería Informática @ Universidad de Buenos Aires**
+Apasionado por el **desarrollo backend**, **sistemas distribuidos**, **programación concurrente** y **pipelines de machine learning.**
 
-### Currently building
-- High-performance systems in **Rust** and **Go**  
-- Scalable web applications with **TypeScript**  
-- End-to-end **machine learning** solutions
+### Actualmente desarrollando
 
-### Featured Projects
-- **Aerolíneas Rústicas** – Distributed airport management system (Rust + Cassandra + multithreading)  
-- **Algueiza** – Optimized flight scheduling engine (Go + binary trees & heaps)  
-- **ViajerosXP** – Full-stack TripAdvisor-style MVP (TypeScript)  
-- **Kaggle ML Pipeline** – Supervised learning competition solution  
-- **Pokémon Battle** – Object-oriented game engine with JavaFX UI
+- Sistemas de alto rendimiento en Rust y Go
+- Aplicaciones web escalables con TypeScript y Python
+- Soluciones de machine learning de extremo a extremo
 
-### Technical Skills
-**Languages:** Rust, Go, Python, Java, TypeScript, C  
-**Core:** REST APIs, Distributed Systems, Multithreading, Concurrent Programming, TDD  
-**Databases:** Cassandra, MongoDB, Neo4j, SQL  
-**Data & ML:** Supervised Learning, Neural Networks, EDA, Pandas, Scikit-learn  
-**Tools:** Git, Docker, Linux, Visual Studio Code, Railway
+### Proyectos Destacados
 
-Open to **internships**, **junior backend roles**, and **open-source collaboration**.
+- **Aerolíneas Rústicas** – Sistema distribuido de gestión aeroportuaria (Rust + Cassandra + multithreading)
+- **Algueiza** – sistema de gestión de vuelos de un aeropuerto (Go + árboles binarios y heaps)
+- **ViajerosXP** – MVP full-stack estilo TripAdvisor (TypeScript+Python)
+- **Kaggle Disaster Tweets** – Solución para competencia de aprendizaje supervisado con el pipeline completo de varios modelos
+- **Batalla Pokemon** – juego de batalla por turnos con estilo de Pokemon y que emplea programación orientada a objetos con interfaz JavaFX
+
+### Habilidades Técnicas
+
+**Lenguajes:** Rust, Go, Python, Java, TypeScript, C
+**Core:** APIs REST, Sistemas Distribuidos, Multithreading, Programación Concurrente, TDD
+**Bases de datos:** Cassandra, MongoDB, Neo4j, SQL
+**Datos y ML:** Aprendizaje Supervisado, Redes Neuronales, EDA, Pandas, Scikit-learn
+**Herramientas:** Git, Docker, Linux, Visual Studio Code, Railway
+
+Abierto a pasantías, roles backend junior y colaboración en proyectos open-source.
 
 📍 Buenos Aires, Argentina  
 📧 franguardia9340@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/francoguardia/) | [CV](https://docs.google.com/document/d/1nzTFwSB-uKdT1O0U8dHyUsBVkieKmq-ClA6cQBrbZMw/edit?usp=sharing)
+🔗 [LinkedIn](https://www.linkedin.com/in/francoguardia/) | [CV](https://docs.google.com/document/d/1QDgbDHt75WmSJ65kEo0iH92oen0tniGSO-lZLN2j2os/edit?usp=sharing)
